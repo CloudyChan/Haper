@@ -33,16 +33,20 @@ const container = document.querySelector(".container"),
         container.classList.remove("active");
     });
 
-    var url = window.location.href;
-    function UrlExists(url) {
-        var http = new XMLHttpRequest();
-        http.open('HEAD', url, false);
-        http.send();
-        if (http.status != 404)
-            return true;
-        else
-            return false;
+function urlExists(url, callback) {
+  var xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState === 4) {
+      callback(xhr.status < 400);
     }
+  };
+  xhr.open('HEAD', url);
+  xhr.send();
+}
+
+urlExists(someUrl, function(exists) {
+    console.log('"%s" exists?', someUrl, exists);
+});
     
         
     
