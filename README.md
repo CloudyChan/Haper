@@ -17,7 +17,7 @@
         <div class="logo-name">
             <div class="logo-image"> 
                 <a href="Haper/profile/profile.html">
-                <img src="images/logo.png" alt="">
+                <img src="../images/logo.png" alt="">
             </a>
             </div>
             <span class="logo_name">CodingLab</span>
@@ -49,7 +49,7 @@
                     <i class="uil uil-share"></i>
                     <span class="link-name">Share</span>
                 </a></li>
-                <li><a href="Haper/Pricing/index.html">
+                <li><a href="../Pricing/index.html">
                     <i class="uil uil-arrow-up"></i>
                     <span class="link-name">Upgrade</span>
                 </a></li>
@@ -87,7 +87,7 @@
                   </div>
             </div>
             
-            <img src="images/profile.jpg" alt="">
+            <img src="../images/profile.jpg" alt="">
         </div>
 
         <div class="dash-content">
