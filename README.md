@@ -49,7 +49,7 @@
                     <i class="uil uil-share"></i>
                     <span class="link-name">Share</span>
                 </a></li>
-                <li><a href="../Pricing/index.html">
+                <li><a href="Haper/Pricing/index.html">
                     <i class="uil uil-arrow-up"></i>
                     <span class="link-name">Upgrade</span>
                 </a></li>
