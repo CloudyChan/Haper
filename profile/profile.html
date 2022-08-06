@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="profile.css">
+  <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="profile.js"></script>
+</head>
+<body>
+  <section>
+    <div class="wrapper">
+  <main class="container">
+    <div class="card">
+      <img src="img/logo.png" alt="Coding Lab" class="card__image" />
+      <div class="card__text">
+        <h2>Coding Lab</h2>
+        <h3>coding.lab@gmail.com</h3>
+        <p>I enjoy drinking a cup of coffee every day.</p>
+      </div>
+      <ul class="card__info">
+        <li>
+          <span class="card__info__stats">172</span>
+          <span>posts</span>
+        </li>
+        <li>
+          <span id="follower" class="card__info__stats">47</span>
+          <span>followers</span>
+        </li>
+        <li>
+          <span class="card__info__stats">20</span>
+          <span>following</span>
+        </li>
+      </ul>
+      <div class="card__action">
+        <button id="followbtn" class="card__action__button card__action--follow" onclick="follow()">follow</button>
+        <button class="card__action__button card__action--message">message</button>
+      </div>
+    </div>
+  </main>
+  </section>
+</body>
+</html>
