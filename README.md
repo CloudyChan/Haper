@@ -16,7 +16,7 @@
     <nav>
         <div class="logo-name">
             <div class="logo-image"> 
-                <a href="../profile/profile.html">
+                <a href="Haper/profile/profile.html">
                 <img src="images/logo.png" alt="">
             </a>
             </div>
