@@ -17,7 +17,7 @@
         <div class="logo-name">
             <div class="logo-image"> 
                 <a href="../profile/profile.html">
-                <img src="images/logo.png" alt="">
+                    <img src="https://github.com/CloudyChan/Haper/blob/main/Images/logo.png"></img>
             </a>
             </div>
 
