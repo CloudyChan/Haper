@@ -34,6 +34,6 @@ Email premshahi@gmail.com deepachand@gmail.com prakashhai@gmail.com manishachand
 
 Joined 2022-02-12 2022-02-12 2022-02-13 2022-02-13 2022-02-14 2022-02-14 2022-02-15
 
-Type New Member Member New Member New Member
+Type Premium Member Banned New Member New Banned
 
 Status Liked Liked Liked Liked Liked Liked Liked
