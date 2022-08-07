@@ -1,6 +1,6 @@
-       Haper Dashboard
+        Haper Dashboard
 
-[![](../images/logo.png)](Haper/profile/profile.html)
+[![](https://github.com/CloudyChan/Haper/blob/main/Images/logo.pngg)](../profile/profile.html)
 
 CodingLab
 
