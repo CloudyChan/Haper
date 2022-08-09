@@ -12,11 +12,11 @@ CodingLab
 *   [Share](#)
 *   [Upgrade](Haper/Pricing/index.html)
 
-*   [Logout](../../index.html)
+*   [Logout]()
 *   [Dark Mode](#)
     
 
-![](https://cloudychan.github.io/Haper/Images/profile.png)
+[![](https://cloudychan.github.io/Haper/Images/profile.png)](../profile/profile.html)
 
 Dashboard
 
