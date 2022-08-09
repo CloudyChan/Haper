@@ -16,7 +16,7 @@ CodingLab
 *   [Dark Mode](#)
     
 
-![](../images/profile.jpg)
+![](https://cloudychan.github.io/Haper/Images/logo.png)
 
 Dashboard
 
