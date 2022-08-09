@@ -10,7 +10,7 @@ CodingLab
 *   [Like](#)
 *   [Comment](#)
 *   [Share](#)
-*   [Upgrade](Haper/Pricing/index.html)
+*   [Upgrade](cloudychan.github.io/Haper/Pricing/index.html)
 
 *   [Logout]()
 *   [Dark Mode](#)
