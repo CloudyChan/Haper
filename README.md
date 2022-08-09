@@ -1,7 +1,6 @@
         Haper Dashboard
 
-[![](https://github.com/CloudyChan/Haper/blob/main/Images/logo.pngg)](../profile/profile.html)
-![Alt text](Images/logo.jpg "Optional title")
+[![](https://cloudychan.github.io/Haper/Images/logo.png)](../profile/profile.html)
 
 CodingLab
 
