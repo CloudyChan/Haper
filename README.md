@@ -16,7 +16,7 @@ CodingLab
 *   [Dark Mode](#)
     
 
-[![](https://cloudychan.github.io/Haper/Images/profile.png)](../profile/profile.html)
+[![](https://cloudychan.github.io/Haper/Images/profile.jpg)](../profile/profile.html)
 
 Dashboard
 
