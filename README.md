@@ -15,9 +15,6 @@ CodingLab
 *   [Logout]()
 *   [Dark Mode](#)
     
-
-[![](https://cloudychan.github.io/Haper/Images/profile.jpg)](../profile/profile.html)
-
 Dashboard
 
 Total Likes 50,120
