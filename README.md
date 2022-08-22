@@ -1,6 +1,6 @@
         Haper Dashboard
 
-[![](https://cloudychan.github.io/Haper/Images/logo.png)](../profile/profile.html)
+[![](https://cloudychan.github.io/Haper/Images/logo.png)](account-settings/index.html)
 
 CodingLab
 
@@ -9,12 +9,13 @@ CodingLab
 *   [Analytics](#)
 *   [Like](#)
 *   [Comment](#)
-*   [Share](#)
-*   [Upgrade](cloudychan.github.io/Haper/Pricing/index.html)
+*   [Upgrade](../Pricing/index.html)
+*   [Settings](Settings/index.html)
 
-*   [Logout]()
+*   [Logout](../../index.html)
 *   [Dark Mode](#)
     
+
 Dashboard
 
 Total Likes 50,120
@@ -31,6 +32,6 @@ Email premshahi@gmail.com deepachand@gmail.com prakashhai@gmail.com manishachand
 
 Joined 2022-02-12 2022-02-12 2022-02-13 2022-02-13 2022-02-14 2022-02-14 2022-02-15
 
-Type Premium Member Banned New Member New Banned
+Type New Member Member New Member New Member
 
 Status Liked Liked Liked Liked Liked Liked Liked
