@@ -16,6 +16,8 @@ CodingLab
 *   [Dark Mode](#)
     
 
+![](https://cloudychan.github.io/Haper/Images/logo.png)
+
 Dashboard
 
 Total Likes 50,120
