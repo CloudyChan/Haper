@@ -1,3 +1,3 @@
 function load(){
-    window.location.href = "index.html";
+    window.location.href = "https://cloudychan.github.io/Haper/index.html";
 }
