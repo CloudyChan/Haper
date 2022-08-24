@@ -5,16 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!----======== CSS ======== -->
     <link rel="stylesheet" href="style.css">
      
-    <!----===== Iconscout CSS ===== -->
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
-    <link rel="icon" type="image/x-icon" href="https://example.com/favicon.ico"/>
+    <link rel="icon" type="image/x-icon" href="http://example.com/favicon.ico"/>
 </head>
     <title>Haper Dashboard</title> 
 </head>
-<body>
+<body onload="load()>
     <nav>
         <div class="logo-name">
             <div class="logo-image"> 
@@ -52,14 +50,24 @@
                     <i class="uil uil-arrow-up"></i>
                     <span class="link-name">Upgrade</span>
                 </a></li>
+            </ul>
+
+            <ul class="logout-mode">
                 <li><a href="https://cloudychan.github.io/Haper/Settings/index.html">
                     <i class="uil uil-setting"></i>
                     <span class="link-name">Settings</span>
                 </a></li>
-            </ul>
+                <li class="mode">
+                    <a href="#">
+                        <i class="uil uil-moon"></i>
+                    <span class="link-name">Dark Mode</span>
+                </a>
 
-            <ul class="logout-mode">
-                <li><a href="../../index.html">
+                <div class="mode-toggle">
+                  <span class="switch"></span>
+                </div>
+            </li>
+                <li><a href="#">
                     <i class="uil uil-signout"></i>
                     <span class="link-name">Logout</span>
                 </a></li>
@@ -180,6 +188,6 @@
         </div>
     </section>
 
-    <script src="script.js"></script>
+    <script src="https://cloudychan.github.io/Haper/link2main.js"></script>
 </body>
 </html>
