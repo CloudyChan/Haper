@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+/* Style buttons */
+.btn {
+    background-color: DodgerBlue;
+    border: 1px;
+    border-radius: 4px;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+
+.windowsS {
+    color: DodgerBlue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.windowsS2 {
+    color: RoyalBlue;
+    font-family: Arial, Helvetica, sans-serif;
+}
